@@ -1,3 +1,7 @@
+# This library is just starting so there is nothing fancy here yet, i will start with actual updates soon.
+
+
+
 def PercentageValue(p, s, a):
     width = a.primaryScreen().size().width()
     height = a.primaryScreen().size().height()
